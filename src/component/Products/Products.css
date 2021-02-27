@@ -1,0 +1,19 @@
+.products-container{
+    display: flex;
+    border-bottom: 1px solid lightgrey;
+    padding: 15px;
+}
+.product-info{
+    padding-left: 20px;
+}
+.product-info h2{
+    color: rgb(74, 74, 255);
+}
+.button{
+    width: 200px;
+    height: 30px;
+    background-color: orange;
+    border: 1px solid grey;
+    border-radius: 5px;
+    cursor: pointer;
+}
